@@ -62,7 +62,7 @@ h2{
 
 .right-side-container{
     width: 100%;
-    background: url(/images/circles.png) ;
+    background: url(circles.png) ;
     background-repeat: no-repeat ;
     background-position: center;
     background-size: cover;
